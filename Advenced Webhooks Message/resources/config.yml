@@ -1,0 +1,31 @@
+#FR | Affiche le chat minecraft sur ton discord
+#EN | Post the minecraft chat on your discord
+LinkWebHooksChat: ""
+
+
+#FR | Affiche un embed quand un nouveau joueur rejoins le serveur
+#EN | Display an embed when a new player joins the server
+LinkWebHooksNewJoin: ""
+TitleNewJoin: "New Join"
+DescriptionNewJoin: "Le joueur **{player}** viens de ce connectée pour la première fois sur le serveur" #VARIABLE {player}
+ColorNewJoin: "3066993"
+FooterNewJoin: "By test"
+ImageNewJoin: ""
+#FR | Affiche un embed quand un joueur rejoins le serveur
+#EN | Display an embed when a player joins the server
+LinkWebHooksJoin: ""
+TitleJoin: "Join"
+DescriptionJoin: "Le joueur **{player}** viens de ce conectée du serveur" #VARIABLE {player}
+ColorJoin: "3066993"
+FooterJoin: "By test"
+ImageJoin: ""
+
+#FR | Affiche un embed quand un joueur ce déconnecte du serveur
+#EN | Display an embed when a player disconnects from the server
+LinkWebHooksLeave: ""
+TitleLeave: "Leave"
+DescriptionLeave: "> Le joueur **{player}** viens de ce déconectée du serveur" #VARIABLE {player}
+ColorLeave: "15158332"
+FooterLeave: "By test"
+ImageLeave: ""
+

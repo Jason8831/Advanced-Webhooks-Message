@@ -1,0 +1,5 @@
+name: avdenced Webhooks Message
+version: 1.2.0
+api: 4.0.0
+main: Jason8831\Chat\Main
+author: Jason8831
